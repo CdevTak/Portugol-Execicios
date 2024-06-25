@@ -1,0 +1,39 @@
+Tipos Primitivos
+___________________________________
+-- Logico -- (Para Resultados Falso ou Verdadeiro)
+-- Cadeia -- (Para mais De Uma Letra)
+-- Inteiro -- (Para Número S/ Virgula)
+-- Real -- (Para Número C/Virguloa)
+-- Caractere -- (Para Rsultados Com Apenas 1 Letra Ou Simbologia)
+
+-- Atribuição -- de "Cadeia De Caractere" Com Uma "Variavel"  (+)
+
+-- limpa() -- Limpa Remove Todos Os Conteudos Anteriormente Escritos
+
+-- \n -- Quebra A linha De Citação E Adiciona A Poxima Citação Na Linha A Baixo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
